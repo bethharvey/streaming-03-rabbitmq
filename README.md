@@ -83,7 +83,7 @@ python util_aboutrabbit.py
 pip list
 ```
 
-![verifying setup](./images/verify-setup.png)
+![verifying setup](./images/verifying.png)
 
 
 ## Task 5. Read
@@ -126,6 +126,8 @@ Sending the same message each time is kind of boring. This time:
 
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.
+
+![sending multiple messages](./terminal_screenshot.png)
 
 ## Task 9. Save Time & Effort: Don't Repeat Yourself
 
