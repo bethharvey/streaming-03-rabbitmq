@@ -1,5 +1,12 @@
 # streaming-03-rabbitmq
 
+* Beth Harvey
+* Streaming Data
+* Module 3
+* September 4, 2023
+
+The goal of this project is to get familiar using RabbitMQ to decouple the processes of sending and receiving messages.so
+
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
 This project requires some free code - beyond that available in the Python Standard Library. To avoid messing up our local default Python installation, and any other Python projects we may have, we  create a local virtual environment to install and use these libraries.
