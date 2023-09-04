@@ -1,0 +1,8 @@
+2023-09-04 15:44:57,401.v2_emit_message.INFO ==================================================
+2023-09-04 15:44:57,401.v2_emit_message.INFO Today is 2023-09-04 at 03:44 PM
+2023-09-04 15:44:57,401.v2_emit_message.INFO Running on: posix Darwin 22.5.0
+2023-09-04 15:44:57,401.v2_emit_message.INFO Python version:  3.11.2
+2023-09-04 15:44:57,401.v2_emit_message.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 3/streaming-03-rabbitmq/.venv
+2023-09-04 15:44:57,401.v2_emit_message.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 3/streaming-03-rabbitmq
+2023-09-04 15:44:57,401.v2_emit_message.INFO ==================================================
+2023-09-04 15:44:57,419.v2_emit_message.INFO  [x] Sent This wasn't as hard as I thought it would be!

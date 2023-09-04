@@ -1,4 +1,6 @@
 """
+    Beth Harvey
+    September 4, 2023
     This program sends a message to a queue on the RabbitMQ server.
 
 """

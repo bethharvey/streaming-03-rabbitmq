@@ -1,0 +1,13 @@
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO ==================================================
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO Today is 2023-09-04 at 03:43 PM
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO Running on: posix Darwin 22.5.0
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO Python version:  3.11.2
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 3/streaming-03-rabbitmq/.venv
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 3/streaming-03-rabbitmq
+2023-09-04 15:43:06,640.v2_listen_for_messages.INFO ==================================================
+2023-09-04 15:43:06,651.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-04 15:43:06,651.v2_listen_for_messages.INFO Received: Now I can send all the messages!
+2023-09-04 15:43:06,651.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-04 15:43:47,287.v2_listen_for_messages.INFO Received: Version 2 does the same thing, but in a different way!
+2023-09-04 15:44:35,017.v2_listen_for_messages.INFO Received: I think simple streaming is starting to make more sense.
+2023-09-04 15:44:57,419.v2_listen_for_messages.INFO Received: This wasn't as hard as I thought it would be!

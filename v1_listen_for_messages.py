@@ -1,5 +1,8 @@
 """
 
+Beth Harvey
+September 4, 2023
+
 Listens for messages on the queue.
 This process runs continuously. 
 

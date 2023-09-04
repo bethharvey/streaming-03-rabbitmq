@@ -167,6 +167,8 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
 
+![sending multiple messages V2](./terminal_screenshot_v2.png)
+
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
